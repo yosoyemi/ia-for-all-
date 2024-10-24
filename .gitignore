@@ -28,3 +28,9 @@ build/
 dist/
 /*.log
 .DS_Store
+node_modules/
+build/
+.env
+dist/
+/*.log
+.DS_Store
